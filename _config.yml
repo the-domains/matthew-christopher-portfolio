@@ -1,0 +1,28 @@
+name: Matthew Christopher Portfolio
+favicon: null
+layout_spectrum: 0.3259783424437046
+typography_spectrum: 0.6957158576697111
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7856185254640877
+  lightness: 0.7188479152973741
+  saturation: 0.6107389354147017
+  rhythmicContrast: 0.1251294205430895
+purpose: []
